@@ -1,4 +1,3 @@
 AppTiles
 ---------
-Porting to SFML
-I have plans in mind :)
+nvm no plans in mind i forgot everything
